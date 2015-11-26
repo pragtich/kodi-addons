@@ -1,0 +1,3 @@
+[submodule "xbmcbackup"]
+	path = xbmcbackup
+	url = https://github.com/pragtich/xbmcbackup.git
